@@ -1,0 +1,58 @@
+.home{
+    background-color: rgb(153, 140, 144);
+}
+
+
+.div{
+     
+    background-color: rgb(63, 134, 197);
+   
+}
+
+.Card{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 250px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+    
+}
+
+h3{
+    color: white;
+    background-color: aquamarine;
+    width: 200px;
+    text-align:left;
+    margin-left: 600px;
+}
+
+select{
+    background-color: rgb(224, 171, 207);
+    margin-left: 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+button{
+    background-color: rgb(48, 235, 11);
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.sp{
+    
+    text-align:center;
+}
+link{
+    background-color: azure;
+    vertical-align: text-bottom;
+}
+.target{
+    align-items: center;
+    vertical-align:top;
+}
+
+.nova{
+    margin-right: 10px;
+    vertical-align: middle;
+}
